@@ -1,0 +1,526 @@
+<HTML>
+<HEAD>
+  <META NAME="GENERATOR" CONTENT="Adobe PageMill 2.0 Mac">
+  <TITLE>DCTune 2.0 README</TITLE>
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+
+<H1 ALIGN=CENTER><FONT COLOR="#000000">DCTune 2.0:</FONT></H1>
+
+<H1 ALIGN=CENTER><FONT COLOR="#000000">Perceptual Optimization of JPEG
+Images</FONT></H1>
+
+<H2 ALIGN=CENTER><FONT COLOR="#000000">(and Perceptual Error
+Metric)</FONT></H2>
+
+<H1 ALIGN=CENTER><TABLE WIDTH="450" BORDER="0" CELLSPACING="2" CELLPADDING=
+"0">
+<TR>
+<TD WIDTH="33%">&nbsp;<IMG SRC="04s.jpg" WIDTH="128" HEIGHT="192"
+ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3"></TD>
+<TD WIDTH="33%">&nbsp;<IMG SRC="04s.d.jpg" WIDTH="128" HEIGHT="192"
+ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3"></TD>
+<TD WIDTH="34%">&nbsp;<IMG SRC="blocks.jpg" WIDTH="128" HEIGHT="192"
+ALIGN="BOTTOM" NATURALSIZEFLAG=
+"3"></TD></TR>
+<TR>
+<TD WIDTH="33%"><H6 ALIGN=CENTER>Original</H6>
+</TD>
+<TD WIDTH="33%"><H6 ALIGN=CENTER>JPEG</H6>
+</TD>
+<TD WIDTH="34%"><H6 ALIGN=CENTER><A HREF="#demo">Perceptual Error Map</A></H6>
+</TD></TR>
+</TABLE>
+</H1>
+
+<H3><TT><FONT COLOR="#000000">Description</FONT></TT></H3>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">DCTune is a technology for optimizing JPEG still
+  image compression. DCTune calculates the best JPEG quantization matrices
+  to achieve the maximum possible compression for a specified perceptual
+  error, given a particular image and a particular set of viewing conditions.
+  In DCTune, a target perceptual error of 1.0 means that for the specified
+  viewing conditions the compressed JPEG image is perceptually lossless,
+  that is, it will appear exactly the same as the original uncompressed image.
+  DCTune is a patented technology available for licensing by NASA.</FONT></P>
+  <P><FONT COLOR="#000000">DCTune2.0 is a minimal implementation of DCTune
+  technology that is offered free for demonstration purposes only. It takes
+  a color image, computes the optimal quantization matrix, and generates
+  both the matrix and the compressed image.</FONT></P>
+</BLOCKQUOTE>
+
+<H3><FONT COLOR="#000000">Image Quality Metric (</FONT><FONT
+COLOR="#EF1F1D">NEW</FONT>)</H3>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">DCTune2.0 now allows the user to compute the
+perceptual
+  error between two images. This perceptual error can be used to measure
+  and control quality in many image coding, transmission, and processing
+  applications. The demonstration above shows an original image, an image
+  compressed by jpeg with visible artifacts, and an image showing the location
+  and magnitude of visible errors in the jpeg image. If desired, DCTune2.0
+  can also generate a single number indicating the total perceptual error,
+  or show how the errors are distributed over DCT frequency and color
+channel.<BR>
+  </FONT></P>
+</BLOCKQUOTE>
+
+<H3>Why Use DCTune?</H3>
+
+<BLOCKQUOTE>
+  <P>DCTune offers four key benefits:</P>
+  <OL>
+    <LI>Accurate specification of visual quality. DCTune incorporates a scale
+    that relates directly to perceptual quality. A value of 1 indicates
+perceptually
+    lossless quality.
+    <LI>Custom quantization matrices optimized for specific applications
+(printing,
+    web, web-tv, medical imaging, tv, video, dv, digital tv, hdtv, etc).
+    <LI>Reduced file size. For a given level of visual quality, DCTune will
+    produce a smaller file than standard JPEG.
+    <LI>Accurate measurement of perceptual error in processed images.
+  </OL>
+</BLOCKQUOTE>
+
+<H3>New in Version 2.0</H3>
+
+<OL>
+  <LI><FONT COLOR="#000000">Computes perceptual error between two images.
+  Thus DCTune2.0 can be used as a stand-alone image fidelity metric.</FONT>
+  To use this feature, use the -error option described below. See the
+domonstration
+  in the images above.
+  <LI>Allows user to specify tolerance in percent for bitrate or filesize
+  optimization.
+</OL>
+
+<H3>New in Version 1.2</H3>
+
+<OL>
+  <LI><FONT COLOR="#000000">Fixes a bug which occurred with images containing
+  a completely black macroblock.</FONT>
+  <LI><FONT COLOR="#000000">Prints a version number in the usage
+message.</FONT>
+</OL>
+
+<H3>New in Version 1.1</H3>
+
+<OL>
+  <LI>User may now specify target file-size or bit-rate, instead of perceptual
+  error.
+  <LI>Viewing conditions may now be specified in dpi and viewing distance.
+  <LI>In version 1.0, image width and height were required to be multiples
+  of 16. This restriction has been removed.
+  <LI><FONT COLOR="#000000">DCTune 1.1 reads a wider range of PPM and PGM
+  files.</FONT>
+</OL>
+
+<H3>Downloading</H3>
+
+<BLOCKQUOTE>
+  <P>Executable versions of DCTune2.0 are available for download below. Each
+  download consists of an executable, this documentation file, and a test
+  image. After downloading, use the test image to verify that the program
+  is working. These versions of DCTune are for evaluation and demonstration
+  purposes only.</P>
+</BLOCKQUOTE>
+
+<UL>
+  <LI><A HREF="http://vision.arc.nasa.gov/dctune/dctune2.0.sea.hqx">Power
+  Macintosh DCTune 2.0</A>
+  <LI><A HREF="http://vision.arc.nasa.gov/dctune/dctune2.0.install.exe">Win32
+  DCTune 2.0</A>
+  <LI><A HREF="http://vision.arc.nasa.gov/dctune/dctune2.0.tar.gz">SUN DCTune
+  2.0</A>
+</UL>
+
+<H3><FONT COLOR="#000000">Usage</FONT></H3>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Version 2.0 of DCTune uses a command line argument
+  interface on all platforms. On the MacOS, the arguments are entered into
+  a text dialog box that appears when the application is launched. All
+arguments
+  in square brackets are optional. Defaults are in curly braces.<BR>
+  </FONT><TABLE WIDTH="100%" BORDER="0" CELLSPACING="2" CELLPADDING="0"
+  HEIGHT="155">
+<TR>
+<TD WIDTH="10%" HEIGHT="17">  &nbsp;<FONT COLOR="#000000">dctune</FONT></TD>
+<TD WIDTH="90%">  &nbsp;[<FONT COLOR="#000000">-f &lt;input
+file&gt;]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -p &lt;target perceptual error&gt; {1.0}
+  ]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -kbytes &lt;target file size&gt;
+]</FONT></TD></TR>
+<TR>
+<TD>  &nbsp;</TD>
+<TD>  &nbsp;[ -bpp &lt;target bits per pixel&gt; ]</TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -sx &lt;pixels per degree&gt; {32}
+]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -sy &lt;pixels per degree&gt; {32}
+]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -inches &lt;viewing distance&gt; {25.33}
+  ]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -dpi &lt;monitor dot pitch&gt; {72}
+]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -o &lt;quantization matrix file name&gt;
+  {qmatrix.txt} ]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -j &lt;output JPEG file name&gt;
+{input-file.jpg}]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -m ]</FONT></TD></TR>
+<TR>
+<TD HEIGHT="17">  &nbsp;</TD>
+<TD>  &nbsp;<FONT COLOR="#000000">[ -h ]</FONT></TD></TR>
+<TR>
+<TD>  &nbsp;</TD>
+<TD>  &nbsp;[-error &lt;reference file&gt; &lt;test file&gt;]</TD></TR>
+<TR>
+<TD>  &nbsp;</TD>
+<TD>  &nbsp;[-blocks] [&lt;scale&gt; {400}]</TD></TR>
+<TR>
+<TD>  &nbsp;</TD>
+<TD>  &nbsp;[-matrices]</TD></TR>
+<TR>
+<TD>  &nbsp;</TD>
+<TD>  &nbsp;[-tolerance &lt;tolerance in percent&gt; {5}]</TD></TR>
+</TABLE>
+<BR>
+  <BR>
+  </P>
+</BLOCKQUOTE>
+
+<H3><FONT COLOR="#000000">Arguments</FONT></H3>
+
+<P><B><FONT COLOR="#000000">-f &lt;input-file&gt;</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The input file is an uncompressed 24-bit RGB or
+  8-bit grayscale image in Portable Pixmap (PPM/PBM/PGM) format. To convert
+  files from other graphics formats to PPM:</FONT></P>
+  <P><TABLE WIDTH="90%" BORDER="1" CELLSPACING="2" CELLPADDING="0">
+<TR>
+<TD WIDTH="33%">  <P ALIGN=CENTER><B>Platform</B></TD>
+<TD WIDTH="33%">  <P ALIGN=CENTER><B>Application</B></TD>
+<TD WIDTH="34%">  <P ALIGN=CENTER><B>Where to get it</B></TD></TR>
+<TR>
+<TD>  &nbsp;<FONT COLOR="#000000">PC/Windows</FONT></TD>
+<TD>  &nbsp;<FONT COLOR="#000000">WinJPEG</FONT></TD>
+<TD>  <A
+HREF="http://www.pixvision.com/">&nbsp;&nbsp;http://www.pixvision.com/</A></TD><
+/TR>
+<TR>
+<TD WIDTH="33%">  &nbsp;<FONT COLOR="#000000">Power Macintosh</FONT></TD>
+<TD WIDTH="33%">  &nbsp;<FONT COLOR="#000000">GraphicConverter</FONT></TD>
+<TD WIDTH="34%">  <A HREF="http://www.lemkesoft.de/">&nbsp;
+http://www.lemkesoft.de/</A></TD></TR>
+<TR>
+<TD WIDTH="33%">  &nbsp;<FONT COLOR="#000000">Unix/XWindows</FONT></TD>
+<TD WIDTH="33%">  &nbsp;<FONT COLOR="#000000">xv</FONT></TD>
+<TD WIDTH="34%">  <A HREF="ftp://ftp.cis.upenn.edu/pub/xv">&nbsp;
+ftp://ftp.cis.upenn.edu/pub/xv</A></TD></TR>
+</TABLE>
+</P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000"><BR>
+-p &lt;target perceptual error&gt; {1.0}</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The target perceptual error is a real number greater
+  than 0.0 A target perceptual error of 1.0 means that the compressed JPEG
+  image will be perceptually identical (look the same) to the original
+uncompressed
+  image under the specified viewing conditions.</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000"><BR>
+-kbytes &lt;target file size in Kilobytes&gt; </FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Find the quantization matrices which produce a
+  JPEG encoded image with the target file size in kilobytes and the best
+  possible visual quality for that target file size. Overrides the -p and
+  -bpp options. </FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-bpp &lt;target bits per pixel&gt; </B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Find the quantization matrices which produce a
+  JPEG encoded image with the target bit-rate in bits/pixel and the best
+  possible visual quality for that target bit-rate. Overrides the -p and
+  -kbytes options. </FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-sx &lt;pixels per degree&gt; {32}</B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The number of pixels per degree of visual angle
+  along the horizontal axis. This is determined by the display resolution
+  and the viewing distance. Specifically, 57 * pixels/degree = viewing distance
+  in pixels. For example, a 72 dpi monitor at 25.33 inches yields 32
+pixels/degree.</FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-sy &lt;pixels per degree&gt; {32}</B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The number of pixels per degree of visual angle
+  along the vertical axis. See notes for -sx.</FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-inches &lt;viewing distance in inches&gt; {25.33}</B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The distance from the viewer to the monitor screen
+  in inches. Works with -dpi. Overrides the -sx and -sy options. </FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-dpi &lt;monitor dot pitch in dots per inch&gt; {72}</B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The monitor dot pitch in dots per inch.Works with
+  -inches. Overrides the -inches and -sx and -sy options. </FONT></P>
+</BLOCKQUOTE>
+
+<P><FONT COLOR="#000000"><BR>
+<B>-o &lt;quantization matrix file&gt; {qmatrix.txt}</B></FONT></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">DCTune outputs the JPEG quantization matrices
+  in an ASCII file in the format used by the Independent JPEG Group's JPEG
+  encoder. The IJG JPEG encoder is also integrated into DCTune.</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-j &lt;output JPEG file name&gt;
+{input-file.jpg}</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Sets the name of the JPEG encoded image generated
+  by DCTune. This defaults to the stem of the input file name with the jpg
+  extension. </FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-m</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Turns off the DCTune JPEG perceptual optimization
+  and uses the default quantization matrices in the Independent JPEG Group's
+  JPEG encoder. </FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-h</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Help. Prints the version number, as well as a
+  help message explaining options and usage of DCTune.</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-error &lt;reference file&gt; &lt;test
+file&gt;</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">Computes the perceptual error, in units of jnd
+  (just-noticeable differences) between a reference image and a test image.
+  Unless the -blocks or -matrices options are selected, this returns a single
+  number. Both images must be in the format described under the -f argument.
+  -error overrides -f.</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-blocks &lt;scale&gt;</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">In conjunction with the -error option, returns
+  the error as an 8-bit grayscale PPM image blocks.ppm, depicting the pooled
+  jnds within each macroblock (the error is pooled only over color (Y, Cb,
+  and Cr) and DCT frequency). The scale factor determines the mapping from
+  jnd to grayscale; the default is 400 (eg 0.5 jnd -&gt;200
+grayscale).</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-matrices</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">In conjunction with the -error option, returns
+  the error as three 8x8 matrices, depicting the pooled jnds within each
+  color (Y, Cb, and Cr) and DCT frequency (the error is pooled only over
+  macroblocks). The matrices are written out to a file called
+matrices.txt.</FONT></P>
+</BLOCKQUOTE>
+
+<P><B><FONT COLOR="#000000">-tolerance</FONT></B></P>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">In conjunction with the -bpp or -kbytes options,
+  specifies the accuracy with which bitrate or filesize goal must be met.
+  The default is 5%.</FONT></P>
+</BLOCKQUOTE>
+
+<H3><A NAME="demo"></A><FONT COLOR="#000000">Notes on the Demo</FONT></H3>
+
+<P>The images at the top of this page illustrate the perceptual error metric
+capability of DCTune2.0. An original image 04s.ppm was first compressed
+using DCTune2.0 and the command line:</P>
+
+<P>	-f 04s.ppm</P>
+
+<P>This creates a JPEG file called 04s.jpg. This file was then converted
+back to ppm format (04s.d.ppm) using the shareware program GraphicConverter.
+The perceptual error in each macroblock was then computed by DCTune2.0 using
+the command line:</P>
+
+<P>	-error 04s.ppm 04s.d.ppm -blocks</P>
+
+<P>This creates a new image (blocks.pgm) which we then magnified by 16 in
+width and height using GraphicConverter to produce blocks.ppm. 04s.ppm and
+blocks.ppm were then converted (using GraphicConverter) to JPEG files 04s.jpg
+and blocks.jpg using the highest quality setting. These last files were
+created only for rapid internet access of the web page.</P>
+
+<P>The image blocks.ppm depicts the perceptual error, in jnds x 400, in
+each macroblock of the compressed image 04s.d.jpg.</P>
+
+<H3><FONT COLOR="#000000">Technical Notes</FONT></H3>
+
+<UL>
+  <LI><FONT COLOR="#000000">DCTune1.1 adds support for reading ASCII encoded
+  PPM and PGM files (not supported in DCTune 1.0). DCTune 1.1 also fixes
+  a number of problems reading PPM files.</FONT>
+  <LI><FONT COLOR="#000000">DCTune1.1 adds support for arbitrary dimension
+  images (DCTune 1.0 required integral multiples of 16 pixels).</FONT>
+  <LI><FONT COLOR="#000000">DCTune1.1 adds bitrate optimization (DCTune 1.0
+  only supported target perceptual error).</FONT>
+  <LI><FONT COLOR="#000000">DCTune1.1 adds setting viewing conditions through
+  distance to monitor and monitor dot pitch (dots per inch).</FONT>
+  <LI><FONT COLOR="#000000">DCTune1.2 fixes a bug that occurred when a block
+  was all black.</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 adds stand-alone perceptual error
+computation
+  (-error , -blocks, -matrices options).</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 has improved memory usage.</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 has a fix to incorrect printout of
+  final perceptual error in bitrate optimization loop.</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 now uses percent of file size tolerance
+  in bitrate optimization loop.</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 adds -tolerance option.</FONT>
+  <LI><FONT COLOR="#000000">DCTune2.0 now has more informative status
+information
+  during the bitrate optimization loop.</FONT>
+  <LI><FONT COLOR="#000000">DCTune uses the monitor calibration matrix for
+  a representative RGB monitor. Future releases of DCTune may allow the user
+  to specify the monitor properties.</FONT>
+  <LI><FONT COLOR="#000000">DCTune is for evaluation and demonstration purposes
+  only. </FONT>
+</UL>
+
+<H3><FONT COLOR="#000000">Licensing</FONT></H3>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The DCTune algorithm is covered by a United States
+  patent (U.S. Patent 5,426,512). For information on licensing DCTune contact
+  </FONT><A HREF="mailto:dhelwig@mail.arc.nasa.gov">Denice Helwig</A><FONT
+   COLOR="#000000"> at NASA Ames Research Center, or consult the DCTune
+Technology
+  Licensing Web Page noted below.</FONT></P>
+</BLOCKQUOTE>
+
+<H3><FONT COLOR="#000000">Credits</FONT></H3>
+
+<BLOCKQUOTE>
+  <P><FONT COLOR="#000000">The DCTune algorithm was developed by Dr. Andrew
+  B. Watson, Dr. Albert Ahumada, and others with the Vision Science and
+Technology
+  Group at NASA Ames Research Center. DCTune was developed as a Mathematica
+  prototype by Andrew B. Watson. John F. McGowan, Ph.D. of the Desktop Video
+  Expert Center at NASA Ames Research Center and Mark A. Young, Ph.D. of
+  the Vision Group converted DCTune to the C language.<BR>
+  <BR>
+  DCTune 2.0 incorporates version 6a of the Independent JPEG Group's JPEG
+  Encoder.</FONT></P>
+</BLOCKQUOTE>
+
+<H3>Links to DCTune-related resources</H3>
+
+<BLOCKQUOTE>
+  <H3><TABLE WIDTH="594" HEIGHT="111" BORDER="0" CELLSPACING="2" CELLPADDING=
+  "0">
+<TR>
+<TD WIDTH="50%" HEIGHT="19">  &nbsp;<A
+HREF="http://vision.arc.nasa.gov/publications/patent97.pdf">DCTune
+  Patent</A></TD>
+<TD WIDTH="50%">
+&nbsp;http://vision.arc.nasa.gov/publications/patent97.pdf</TD></TR>
+<TR>
+<TD WIDTH="50%" HEIGHT="19">  &nbsp;<A
+HREF="http://vision.arc.nasa.gov/publications/publications.html#ImageCompression
+">DCTune
+  Publications</A></TD>
+<TD WIDTH="50%">
+&nbsp;http://vision.arc.nasa.gov/publications/publications.html#ImageCompression
+</TD></TR>
+<TR>
+<TD WIDTH="50%" HEIGHT="19">  &nbsp;<A
+HREF="http://ctoserver.arc.nasa.gov/TechOpps/dctune.html">DCTune
+  Technology Licensing</A></TD>
+<TD WIDTH="50%">
+&nbsp;http://ctoserver.arc.nasa.gov/TechOpps/dctune.html</TD></TR>
+<TR>
+<TD WIDTH="50%" HEIGHT="19">  &nbsp;<A
+HREF="http://vision.arc.nasa.gov/">Vision Group</A></TD>
+<TD WIDTH="50%">  &nbsp;http://vision.arc.nasa.gov/</TD></TR>
+<TR>
+<TD WIDTH="50%" HEIGHT="20">  &nbsp;<A
+HREF="http://zeus.arc.nasa.gov/">Desktop Video Expert Center</A></TD>
+<TD WIDTH="50%">  &nbsp;http://zeus.arc.nasa.gov/</TD></TR>
+</TABLE>
+</H3>
+</BLOCKQUOTE>
+
+<H3><FONT COLOR="#000000">Contact Information</FONT></H3>
+
+<BLOCKQUOTE>
+  <P><A HREF="mailto:abwatson@mail.arc.nasa.gov">Andrew B. Watson</A><FONT
+   COLOR="#000000"><BR>
+  MS 262-2<BR>
+  NASA Ames Research Center<BR>
+  Moffett Field, CA 94035-1000<BR>
+  abwatson@mail.arc.nasa.gov<BR>
+  http://vision.arc.nasa.gov/<BR>
+  <BR>
+  </FONT><A HREF="mailto:jmcgowan@mail.arc.nasa.gov">John F. McGowan</A><FONT
+   COLOR="#000000"><BR>
+  MS 233-18<BR>
+  NASA Ames Research Center<BR>
+  Moffett Field, CA 94035-1000<BR>
+  jmcgowan@mail.arc.nasa.gov<BR>
+  http://zeus.arc.nasa.gov/</FONT></BLOCKQUOTE>
+</BODY>
+</HTML>

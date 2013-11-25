@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer
+END
+CoarseMeyerWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/CoarseMeyerWindow.m
+END
+InvMeyerPartition.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/InvMeyerPartition.m
+END
+WindowMeyer.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/WindowMeyer.m
+END
+FineMeyerWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/FineMeyerWindow.m
+END
+MeyerPartition.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/MeyerPartition.m
+END
+DetailMeyerWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Windows/Meyer/DetailMeyerWindow.m
+END

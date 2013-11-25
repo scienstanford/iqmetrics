@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/702/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab
+END
+Curvelet_coefficient_detection.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Curvelet_coefficient_detection.m
+END
+fdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft.m
+END
+afdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/afdct_usfft.m
+END
+fdct_usfft_demo_basic.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_demo_basic.m
+END
+fdct_usfft_c2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_c2r.m
+END
+B_3395_1.RIGHT_CC_boundary.mat
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/B_3395_1.RIGHT_CC_boundary.mat
+END
+fdct_usfft_r2c.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_r2c.m
+END
+Curvelet_Enhancement.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Curvelet_Enhancement.m
+END
+fdct_usfft_pos2idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_pos2idx.m
+END
+ifdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/ifdct_usfft.m
+END
+fdct_usfft_demo_denoise.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_demo_denoise.m
+END
+fdct_usfft_dispcoef.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_dispcoef.m
+END
+fdct_usfft_path.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_path.m
+END
+fdct_usfft_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_param.m
+END
+DOG_TEST.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/DOG_TEST.m
+END
+Sigmoid_Scale_Modify.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Sigmoid_Scale_Modify.m
+END
+fdct_usfft_demo_disp.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_demo_disp.m
+END
+test_coefficient.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/test_coefficient.m
+END
+wavelateenhancement.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/wavelateenhancement.m
+END
+Musica.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Musica.m
+END
+fdct_usfft_demo_recon.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/fdct_usfft_demo_recon.m
+END

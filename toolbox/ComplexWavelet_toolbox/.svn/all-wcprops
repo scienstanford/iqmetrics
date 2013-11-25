@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/702/iqMetrics/toolbox/ComplexWavelet_toolbox
+END
+den2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/den2.m
+END
+main_dtdwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/main_dtdwt.m
+END
+idwt2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idwt2D.m
+END
+denC2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/denC2D.m
+END
+sfb2D_A.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/sfb2D_A.m
+END
+dwt3D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dwt3D_plots.m
+END
+FSfarras.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/FSfarras.m
+END
+NORMCOEF.M
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/NORMCOEF.M
+END
+denR2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/denR2D.m
+END
+afb3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/afb3D.m
+END
+denS2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/denS2D.m
+END
+plotwav1D.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/plotwav1D.m
+END
+cplxdual2D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cplxdual2D_plots.m
+END
+dwt3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dwt3D.m
+END
+WS_FTP.LOG
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/WS_FTP.LOG
+END
+cden2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cden2.m
+END
+denoising_dwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/denoising_dwt.m
+END
+normaliz_coefcalc_dual_tree.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/normaliz_coefcalc_dual_tree.m
+END
+sfb3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/sfb3D.m
+END
+main_dwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/main_dwt.m
+END
+idualtree3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idualtree3D.m
+END
+dualtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree.m
+END
+soft.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/soft.m
+END
+icplxdual3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/icplxdual3D.m
+END
+pm4inv.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/pm4inv.m
+END
+farras.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/farras.m
+END
+afb2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/afb2D.m
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/test.m
+END
+symextend.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/symextend.m
+END
+AntonB.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/AntonB.m
+END
+dwt2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dwt2D.m
+END
+cplxdual3D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cplxdual3D_plots.m
+END
+denoising_dtdwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/denoising_dtdwt.m
+END
+afb.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/afb.m
+END
+den3.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/den3.m
+END
+dualtree3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree3D.m
+END
+dwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dwt.m
+END
+sfb2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/sfb2D.m
+END
+pm4.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/pm4.m
+END
+dualtree_eg1.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree_eg1.m
+END
+cplxdual3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cplxdual3D.m
+END
+idualtree2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idualtree2D.m
+END
+idwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idwt.m
+END
+cshift3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cshift3D.m
+END
+nor_dualtree.mat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/nor_dualtree.mat
+END
+bishrink.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/bishrink.m
+END
+sfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/sfb.m
+END
+icplxdual2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/icplxdual2D.m
+END
+dualtree2D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree2D_plots.m
+END
+idualtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idualtree.m
+END
+dualfilt1.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualfilt1.m
+END
+dualtree2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree2D.m
+END
+idwt3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/idwt3D.m
+END
+tee.mat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/tee.mat
+END
+cplxdual2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cplxdual2D.m
+END
+dwt2D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dwt2D_plots.m
+END
+cshift2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cshift2D.m
+END
+rden2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/rden2.m
+END
+unnormcoef.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/unnormcoef.m
+END
+pm.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/pm.m
+END
+dualtree3D_plots.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/dualtree3D_plots.m
+END
+afb2D_A.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/afb2D_A.m
+END
+expand.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/expand.m
+END
+cshift.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/ComplexWavelet_toolbox/cshift.m
+END

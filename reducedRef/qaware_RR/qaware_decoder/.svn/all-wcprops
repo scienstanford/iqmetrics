@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder
+END
+code_paras.mat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/code_paras.mat
+END
+ecd_info.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/ecd_info.m
+END
+ggd_hist.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/ggd_hist.m
+END
+feature_dequantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/feature_dequantization.m
+END
+key_pattern.mat
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/key_pattern.mat
+END
+kld.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/kld.m
+END
+dec_wmimg.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/dec_wmimg.m
+END
+quality_analysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/quality_analysis.m
+END
+simu_distortion.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/simu_distortion.m
+END
+rr_feature_calculation.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/rr_feature_calculation.m
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/test.m
+END
+ggd.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/ggd.m
+END
+eval_qaware_img.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/eval_qaware_img.m
+END
+qa_img.tif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/qaware_RR/qaware_decoder/qa_img.tif
+END

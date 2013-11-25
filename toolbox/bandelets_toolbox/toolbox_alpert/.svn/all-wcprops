@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert
+END
+test_speed_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_speed_2d.m
+END
+perform_alpert_transform_2d_sliced.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_alpert_transform_2d_sliced.m
+END
+test_decreasing_nd.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_decreasing_nd.m
+END
+test_decreasing_1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_decreasing_1d.m
+END
+test_decreasing_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_decreasing_2d.m
+END
+perform_moment_transform_slow.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_moment_transform_slow.m
+END
+test_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_mex.m
+END
+test_grouping.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_grouping.m
+END
+dichotomic_grouping.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/dichotomic_grouping.m
+END
+perform_alpert_transform_nd.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_alpert_transform_nd.m
+END
+toolbox_alpert.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/toolbox_alpert.m
+END
+perform_alpert_transform_1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_alpert_transform_1d.m
+END
+perform_alpert_transform_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_alpert_transform_2d.m
+END
+compile_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/compile_mex.m
+END
+test_plot_1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_plot_1d.m
+END
+plot_spherical_partition.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/plot_spherical_partition.m
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/readme
+END
+test_plot_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_plot_2d.m
+END
+test_warpsampling.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_warpsampling.m
+END
+perform_moment_transform.dll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/perform_moment_transform.dll
+END
+test_spherical.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_spherical.m
+END
+plot_dichotomic_partition.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/plot_dichotomic_partition.m
+END
+plot_spherical_function.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/plot_spherical_function.m
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/copyright
+END
+copying
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/copying
+END
+build_alpert_matrix_1d.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/build_alpert_matrix_1d.m
+END
+build_alpert_matrix_2d.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/build_alpert_matrix_2d.m
+END
+sphere_sampling.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/sphere_sampling.m
+END
+test_image.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_alpert/test_image.m
+END

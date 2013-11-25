@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ee/pdcprojects/!svn/ver/702/iqMetrics/toolbox/bandelets_toolbox
+END
+l2error.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/l2error.m
+END
+keep_biggest.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/keep_biggest.m
+END
+plot_geometry.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/plot_geometry.m
+END
+load_image_small_square.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/load_image_small_square.m
+END
+perform_wavelet_bandelet_transform.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_wavelet_bandelet_transform.m
+END
+keep_above.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/keep_above.m
+END
+test_single_square.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_single_square.m
+END
+test_wavelet_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_wavelet_quadtree.m
+END
+perform_warping.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_warping.m
+END
+compile_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/compile_mex.m
+END
+BandeletsTutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/BandeletsTutorial.pdf
+END
+perform_warped_wavelet.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_warped_wavelet.m
+END
+perform_bandelet_transform.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_bandelet_transform.m
+END
+perform_haar_transform_slow.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_haar_transform_slow.m
+END
+plot_wavelet.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/plot_wavelet.m
+END
+test_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_quadtree.m
+END
+test_plot_bandelet.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_plot_bandelet.m
+END
+test_image_bandelet.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_image_bandelet.m
+END
+load_image.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/load_image.m
+END
+psnr.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/psnr.m
+END
+evaluate_nbr_bits.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/evaluate_nbr_bits.m
+END
+compute_best_direction.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/compute_best_direction.m
+END
+perform_wavelet_transform.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_wavelet_transform.m
+END
+compute_wavelet_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/compute_wavelet_quadtree.m
+END
+test_reordering.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_reordering.m
+END
+plot_wavelet_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/plot_wavelet_quadtree.m
+END
+test_speed.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_speed.m
+END
+test_compression.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/test_compression.m
+END
+evaluate_nbr_bits_wavelets.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/evaluate_nbr_bits_wavelets.m
+END
+compute_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/compute_quadtree.m
+END
+plot_quadtree.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/plot_quadtree.m
+END
+rescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/rescale.m
+END
+compute_quadrant_selection.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/compute_quadrant_selection.m
+END
+perform_quantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/perform_quantization.m
+END
+reorder_coefs.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/reorder_coefs.m
+END

@@ -1,0 +1,16 @@
+D/mex////
+/compile_mex.m/1.1/Sat Jun 25 02:00:08 2005//
+/compute_quadrant_selection.m/1.1/Wed Aug  4 23:18:20 2004//
+/evaluate_nbr_bits.m/1.1/Sun Jan 16 14:08:20 2005//
+/evaluate_nbr_bits_wavelets.m/1.1/Thu Jan 20 19:32:40 2005//
+/keep_above.m/1.1/Fri Apr  8 14:02:39 2005//
+/keep_biggest.m/1.1/Tue Jan 11 18:17:38 2005//
+/l2error.m/1.1/Mon Jul 19 14:14:25 2004//
+/load_image.m/1.1/Thu May 12 07:14:38 2005//
+/perform_haar_transform.dll/1.1/Sat Jun 25 02:02:59 2005/-kb/
+/perform_haar_transform_slow.m/1.1/Sun May 22 23:19:40 2005//
+/perform_quantization.m/1.1/Mon May 23 18:17:24 2005//
+/plot_wavelet.m/1.1/Thu Jan 20 17:11:05 2005//
+/psnr.m/1.1/Mon Jan 10 13:50:07 2005//
+/reorder_coefs.m/1.1/Sat Jun 25 12:46:05 2005//
+/rescale.m/1.1/Sun Dec 26 23:50:26 2004//

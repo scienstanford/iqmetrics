@@ -1,0 +1,90 @@
+Toolbox_Alpert - A toolbox for the Alpert Multiwavelets Transform.
+ 
+The Alpert transform is a multiwavelets transform based on orthogonal polynomials. 
+It was originaly designed for the resolution of partial differential 
+and integral equations, since it avoid boundary artifact and can be 
+used with an arbitrary sampling.
+ 
+The reference for the numerical algorithm:
+Bradley K. Alpert, 
+Wavelets and Other Bases for Fast Numerical Linear Algebra,
+in Wavelets: A Tutorial in Theory and Applications, 
+C. K. Chui, editor, Academic Press, New York, 1992.
+
+And more theoretical (continuous setting):
+B.K. Alpert, 
+A class of bases in L^2 for the sparse representatiion of integral operators,
+in SIAM J. Math. Anal., 24 (1993), 246-262.
+ 
+The strengh of this transform is that you can transform data sampled irregularly. 
+Of course this algorithm runs in linear time, i.e. O(n). The use of multiwavelets 
+remove any boundary artifact (which are common with wavelet of support > 1, e.g.
+Daubechies wavelets), but the price to pay is that the wavelets functions are *not* 
+continue, they look like the Haar basis function. So don't use this transform to 
+compress data that will be seen by human eyes (although the reconstruction error 
+can be very low, the reconstructed function can have some ugly steps-like artifacts).
+ 
+In this toolbox, you can transform a signal (1D, 2D, nD) with arbitrary length and 
+arbitrary sampling (you *must* each time provide a sampling location 
+in a parameter 'pos').
+
+The number of vanishing moments (which is also the degree of the polynomial 
+approximation+1) is set via the parameter 'k' (default=3). You can provide 
+different numbers of vanishing moments for X and Y axis, using k=[kx,ky] 
+(default k=[3,3]).
+
+--- Dichotomic Grouping Functions ---
+All the transforms require to recursively split the data. For each transform
+a default splitting rule is used, but you can provide your own 
+partition via a parameter 'part'. The way you split the data
+(isotropicaly, using a prefered direction, etc) will lead to various
+behaviour for the transform (of course this is relevant for 2D transform only, 
+since the splitting rule in 1D is always the same).
+The function to perform an automatic grouping is 'dichotomic_grouping'
+(it can provide orthogonal split along the axis or isotropic using k-means).
+
+--- 1D transform --- 
+Use the function perform_alpert_transform_1d. You must provide sampling 
+location together with the signal. The set of points is divided into 
+clusters of approximatly 2*p points, 'p' 
+being the number of vanishing moments. Note 
+that the total number of points can be arbitrary 
+(which is not the case of the original description of 
+the algorithm).
+
+--- 2D transform --- 
+Use function 'perform_alpert_transform_2d'.
+The default spliting rule for this transform use
+the X axis (but you can change). So by default, it is not a fully 2D wavelet 
+construction (the transform is pyramidal only on 1 dimension, on  the other 
+this is just a fixed polynomial basis  with a given number of slices).
+But if you provide your own subdivision (via parameters 'part' for user-defined
+or 'part_type' for automatic)
+then the transform can become isotropic (for example
+set part_type='kmeans').
+
+--- sliced 2D transforms --- 
+Use function perform_alpert_transform_2d_sliced. 
+It divides the points into 's' slices and perform a 2D transform on 
+each slice. You have to provide a number of slices, which  fixes the 
+resolution on the Y axis (as if you were decomposing the function on 
+a wavelet basis for the X direction, and on a box spline basis for the 
+Y direction). This is not very usefull unless you want to 
+set a given resolution on the X axis.
+
+--- nD and more exotic transforms ---
+Use the function 'perform_alpert_transform_nd' to transform
+data in arbitrary dimension.
+The clustering uses function 'dichotomic_grouping'.
+This transform can also be used to transform 
+data lying on a manifold embedded in R^d.
+For instance, the function 'test_spherical'
+gives an example which transform data lying on a sphere.
+
+--- Matrix construction --- 
+For sake of completeness, there are also functions to build the 
+transformation matrix, but these are very slow:
+    - 'build_alpert_matrix' - build 1D Alpert basis
+    - 'build_alpert_matrix_2d' - build 2D Alpert basis adapted to the sampling provided.
+ 
+Copyright (c) 2004 Gabriel Peyré

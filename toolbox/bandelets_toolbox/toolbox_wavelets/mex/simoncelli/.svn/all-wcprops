@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli
+END
+range2.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/range2.c
+END
+convolve.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/convolve.h
+END
+innerProd.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/innerProd.c
+END
+edges-orig.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/edges-orig.c
+END
+histo.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/histo.c
+END
+corrDn.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/corrDn.c
+END
+edges.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/edges.c
+END
+pointOp.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/pointOp.c
+END
+wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/wrap.c
+END
+upConv.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/upConv.c
+END
+convolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/mex/simoncelli/convolve.c
+END

@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools
+END
+reconSFpyrLevs.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconSFpyrLevs.m
+END
+modulateFlip.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/modulateFlip.m
+END
+spyrNumBands.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/spyrNumBands.m
+END
+mkRamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkRamp.m
+END
+pointOp.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pointOp.m
+END
+pwd2path.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pwd2path.m
+END
+skew2.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/skew2.m
+END
+spyrHigh.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/spyrHigh.m
+END
+pyrBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pyrBand.m
+END
+mkAngularSine.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkAngularSine.m
+END
+innerProd.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/innerProd.m
+END
+factorial.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/factorial.m
+END
+mkImpulse.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkImpulse.m
+END
+buildLpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildLpyr.m
+END
+buildSpyrLevs.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSpyrLevs.m
+END
+setPyrBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/setPyrBand.m
+END
+pgmRead.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pgmRead.m
+END
+steer.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/steer.m
+END
+imGradient.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/imGradient.m
+END
+imStats.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/imStats.m
+END
+reconSpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconSpyr.m
+END
+blurDn.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/blurDn.m
+END
+ifftshift.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/ifftshift.m
+END
+mkFract.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkFract.m
+END
+reconWpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconWpyr.m
+END
+mkR.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkR.m
+END
+spyrHt.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/spyrHt.m
+END
+cconv2.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/cconv2.m
+END
+lplot.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/lplot.m
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/ChangeLog
+END
+reconSCFpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconSCFpyr.m
+END
+wpyrHt.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/wpyrHt.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/Contents.m
+END
+sp3Filters.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/sp3Filters.m
+END
+histoMatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/histoMatch.m
+END
+nextFig.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/nextFig.m
+END
+blur.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/blur.m
+END
+spyrLev.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/spyrLev.m
+END
+einstein.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/einstein.pgm
+END
+kurt2.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/kurt2.m
+END
+wpyrLev.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/wpyrLev.m
+END
+mkDisc.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkDisc.m
+END
+reconLpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconLpyr.m
+END
+range2.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/range2.m
+END
+reconSpyrLevs.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconSpyrLevs.m
+END
+feynman.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/feynman.pgm
+END
+mkSine.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkSine.m
+END
+buildSCFpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSCFpyr.m
+END
+clip.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/clip.m
+END
+mkSquare.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkSquare.m
+END
+sp0Filters.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/sp0Filters.m
+END
+pyrLow.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pyrLow.m
+END
+pyrBandIndices.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pyrBandIndices.m
+END
+pgmWrite.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pgmWrite.m
+END
+showSpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/showSpyr.m
+END
+pixelAxes.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/pixelAxes.m
+END
+mkGaussian.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkGaussian.m
+END
+mean2.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mean2.m
+END
+showWpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/showWpyr.m
+END
+steer2HarmMtx.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/steer2HarmMtx.m
+END
+rconv2.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/rconv2.m
+END
+upBlur.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/upBlur.m
+END
+var2.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/var2.m
+END
+upConv.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/upConv.m
+END
+maxPyrHt.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/maxPyrHt.m
+END
+buildSCFpyrLevs.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSCFpyrLevs.m
+END
+zconv2.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/zconv2.m
+END
+spyrBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/spyrBand.m
+END
+buildSFpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSFpyr.m
+END
+histo.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/histo.m
+END
+wpyrBand.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/wpyrBand.m
+END
+corrDn.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/corrDn.m
+END
+showLpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/showLpyr.m
+END
+mkZonePlate.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkZonePlate.m
+END
+reconSFpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/reconSFpyr.m
+END
+rcosFn.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/rcosFn.m
+END
+namedFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/namedFilter.m
+END
+sp1Filters.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/sp1Filters.m
+END
+binomialFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/binomialFilter.m
+END
+sp5Filters.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/sp5Filters.m
+END
+buildGpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildGpyr.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/README
+END
+showIm.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/showIm.m
+END
+vectify.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/vectify.m
+END
+buildSpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSpyr.m
+END
+buildSFpyrLevs.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildSFpyrLevs.m
+END
+shift.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/shift.m
+END
+mkAngle.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/mkAngle.m
+END
+buildWpyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/buildWpyr.m
+END
+lpyrHt.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/lpyrHt.m
+END
+entropy2.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/entropy2.m
+END
+subMtx.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/matlabPyrTools/subMtx.m
+END

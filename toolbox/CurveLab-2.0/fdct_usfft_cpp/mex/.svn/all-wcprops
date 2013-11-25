@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/702/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex
+END
+fdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft.m
+END
+fdct_usfft_param.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_param.m
+END
+afdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/afdct_usfft.m
+END
+fdct_usfft_demo_disp.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_demo_disp.m
+END
+fdct_usfft_demo_basic.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_demo_basic.m
+END
+fdct_usfft_c2r.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_c2r.m
+END
+fdct_usfft_r2c.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_r2c.m
+END
+fdct_usfft_pos2idx.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_pos2idx.m
+END
+ifdct_usfft.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/ifdct_usfft.m
+END
+fdct_usfft_demo_denoise.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_demo_denoise.m
+END
+fdct_usfft_demo_recon.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_demo_recon.m
+END
+fdct_usfft_dispcoef.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/mex/fdct_usfft_dispcoef.m
+END

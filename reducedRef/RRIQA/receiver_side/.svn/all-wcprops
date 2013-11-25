@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/receiver_side
+END
+feature_dequantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/receiver_side/feature_dequantization.m
+END
+quality_analysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/receiver_side/quality_analysis.m
+END
+rr_feature_calculation.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/receiver_side/rr_feature_calculation.m
+END
+receiver_distortion_measure.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/receiver_side/receiver_distortion_measure.m
+END

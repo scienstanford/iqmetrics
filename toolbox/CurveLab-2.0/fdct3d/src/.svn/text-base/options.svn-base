@@ -1,0 +1,5 @@
+-m 127
+-n 127
+-p 127
+-nbscales 5
+-nbdstz_coarse 4

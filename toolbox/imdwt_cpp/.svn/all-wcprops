@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp
+END
+imdwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp/imdwt.m
+END
+imdwt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp/imdwt.cpp
+END
+compile_imdwt.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp/compile_imdwt.m
+END
+imdwt.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp/imdwt.mexw64
+END
+imdwt.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/imdwt_cpp/imdwt.dll
+END

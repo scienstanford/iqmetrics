@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox
+END
+computescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/computescale.m
+END
+pdfbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfbdec.m
+END
+lpdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/lpdec.m
+END
+dup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dup.m
+END
+ppdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/ppdec.m
+END
+pdfb2vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfb2vec.m
+END
+vec2pdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/vec2pdfb.m
+END
+dfbimage.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfbimage.m
+END
+dfbrec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfbrec_l.m
+END
+._computescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/._computescale.m
+END
+WTransform.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/WTransform.m
+END
+SNR.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/SNR.m
+END
+pup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pup.m
+END
+qup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/qup.m
+END
+pdfbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfbrec.m
+END
+lprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/lprec.m
+END
+ldfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/ldfilter.m
+END
+peppers.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/peppers.png
+END
+dfbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfbdec.m
+END
+pprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pprec.m
+END
+._ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/._ChangeLog
+END
+smthborder.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/smthborder.m
+END
+dfilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfilters.m
+END
+wfb2dec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/wfb2dec.m
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/COPYING
+END
+ld2quin.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/ld2quin.m
+END
+fbdec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/fbdec_l.m
+END
+nlademo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/nlademo.m
+END
+Copy_of_resampc.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Copy_of_resampc.mexglx
+END
+resampz.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampz.m
+END
+barbara.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/barbara.png
+END
+dfbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfbrec.m
+END
+Copy_of_resampc.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Copy_of_resampc.mexmac
+END
+resamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resamp.m
+END
+pdown.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdown.m
+END
+pfilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pfilters.m
+END
+wfb2rec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/wfb2rec.m
+END
+denoisedemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/denoisedemo.m
+END
+fbrec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/fbrec_l.m
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/ChangeLog
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Contents.m
+END
+Copy_of_resampc.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Copy_of_resampc.c
+END
+fbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/fbdec.m
+END
+mctrans.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/mctrans.m
+END
+extend2.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/extend2.m
+END
+._Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/._Contents.m
+END
+efilter2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/efilter2.m
+END
+showpdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/showpdfb.m
+END
+resampc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampc.c
+END
+fbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/fbrec.m
+END
+._showpdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/._showpdfb.m
+END
+zoneplate.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/zoneplate.png
+END
+qpdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/qpdec.m
+END
+qupz.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/qupz.m
+END
+WTransform.asv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/WTransform.asv
+END
+nlademo2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/nlademo2.m
+END
+resampc.mexsol
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampc.mexsol
+END
+rebacksamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/rebacksamp.m
+END
+Copy_of_resampc.mexlx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Copy_of_resampc.mexlx
+END
+qprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/qprec.m
+END
+ffilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/ffilters.m
+END
+qdown.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/qdown.m
+END
+resampc.mexlx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampc.mexlx
+END
+pdfb_dn.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfb_dn.m
+END
+modulate2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/modulate2.m
+END
+reverse2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/reverse2.m
+END
+sefilter2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/sefilter2.m
+END
+decdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/decdemo.m
+END
+lena.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/lena.bmp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/README
+END
+resampc.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampc.mexglx
+END
+pdfb_nest.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfb_nest.m
+END
+resampc.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/resampc.mexmac
+END
+pdfb_tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/pdfb_tr.m
+END
+backsamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/backsamp.m
+END
+dfbdec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/dfbdec_l.m
+END
+Copy_of_resampc.mexsol
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/Wavelet9_7_toolbox/Copy_of_resampc.mexsol
+END

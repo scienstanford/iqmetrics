@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src
+END
+cpxnumtnsblkd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/cpxnumtnsblkd.hpp
+END
+fdct3d_inverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3d_inverse.cpp
+END
+numvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/numvec.hpp
+END
+options_mid
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/options_mid
+END
+cpxcrvletprtd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/cpxcrvletprtd.cpp
+END
+offtns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/offtns.hpp
+END
+nummat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/nummat.hpp
+END
+fdct3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3d.cpp
+END
+cpxcrvletprtd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/cpxcrvletprtd.hpp
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/options
+END
+fdct3dinline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3dinline.hpp
+END
+fdct3d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3d.hpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/README
+END
+offvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/offvec.hpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/test.cpp
+END
+offmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/offmat.hpp
+END
+options_sml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/options_sml
+END
+fdct3d_param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3d_param.cpp
+END
+commoninc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/commoninc.hpp
+END
+numtns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/numtns.hpp
+END
+fdct3d_forward.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/fdct3d_forward.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/makefile
+END
+cpxnumtnsblkd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/cpxnumtnsblkd.cpp
+END
+makefile.opt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_mpi/src/makefile.opt
+END

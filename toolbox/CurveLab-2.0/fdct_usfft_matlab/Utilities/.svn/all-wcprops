@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities
+END
+SqueezeAngularFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/SqueezeAngularFT.m
+END
+fft_mid0.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/fft_mid0.m
+END
+fft2_mid0.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/fft2_mid0.m
+END
+reverse.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/reverse.m
+END
+SizeCoeffArray.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/SizeCoeffArray.m
+END
+ifft_mid0.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/ifft_mid0.m
+END
+Adj_SqueezeAngularFT.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/Adj_SqueezeAngularFT.m
+END
+ClockwisetoWENS.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/ClockwisetoWENS.m
+END
+WENStoClockwise.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/WENStoClockwise.m
+END
+ifft2_mid0.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/Utilities/ifft2_mid0.m
+END

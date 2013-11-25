@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff
+END
+CoarseCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/CoarseCurveCoeff.m
+END
+Inv_DetailCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Inv_DetailCurveCoeff.m
+END
+Adj_DetailCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Adj_DetailCurveCoeff.m
+END
+FineCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/FineCurveCoeff.m
+END
+Inv_AtA_CG.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Inv_AtA_CG.m
+END
+MakeFourierDiagonal_2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/MakeFourierDiagonal_2D.m
+END
+SeparateAngles.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/SeparateAngles.m
+END
+SeparateScales.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/SeparateScales.m
+END
+AtA_Toeplitz.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/AtA_Toeplitz.m
+END
+Inv_CoarseCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Inv_CoarseCurveCoeff.m
+END
+Inv_FineCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Inv_FineCurveCoeff.m
+END
+AtA.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/AtA.m
+END
+SetScaleToZero.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/SetScaleToZero.m
+END
+Inv_SeparateAngles.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Inv_SeparateAngles.m
+END
+DetailCurveCoeff.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/DetailCurveCoeff.m
+END
+Adj_SeparateAngles.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Adj_SeparateAngles.m
+END
+Adj_SeparateScales.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_matlab/CurveCoeff/Adj_SeparateScales.m
+END

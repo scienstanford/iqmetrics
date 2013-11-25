@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ee/pdcprojects/!svn/ver/702/iqMetrics/toolbox/contourlet_toolbox
+END
+computescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/computescale.m
+END
+pdfbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfbdec.m
+END
+lpdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/lpdec.m
+END
+dup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dup.m
+END
+ppdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/ppdec.m
+END
+pdfb2vec.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfb2vec.m
+END
+vec2pdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/vec2pdfb.m
+END
+dfbimage.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfbimage.m
+END
+dfbrec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfbrec_l.m
+END
+._computescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/._computescale.m
+END
+SNR.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/SNR.m
+END
+pup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pup.m
+END
+qup.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/qup.m
+END
+pdfbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfbrec.m
+END
+ldfilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/ldfilter.m
+END
+lprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/lprec.m
+END
+dfbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfbdec.m
+END
+smthborder.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/smthborder.m
+END
+pprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pprec.m
+END
+dfilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfilters.m
+END
+wfb2dec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/wfb2dec.m
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/COPYING
+END
+fbdec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/fbdec_l.m
+END
+ld2quin.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/ld2quin.m
+END
+nlademo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/nlademo.m
+END
+resampz.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampz.m
+END
+dfbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfbrec.m
+END
+resamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resamp.m
+END
+pdown.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdown.m
+END
+pfilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pfilters.m
+END
+wfb2rec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/wfb2rec.m
+END
+denoisedemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/denoisedemo.m
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/ChangeLog
+END
+fbrec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/fbrec_l.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/Contents.m
+END
+fbdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/fbdec.m
+END
+mctrans.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/mctrans.m
+END
+extend2.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/extend2.m
+END
+._Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/._Contents.m
+END
+showpdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/showpdfb.m
+END
+efilter2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/efilter2.m
+END
+resampc.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.c
+END
+fbrec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/fbrec.m
+END
+resampc.mexw64
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.mexw64
+END
+._showpdfb.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/._showpdfb.m
+END
+qpdec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/qpdec.m
+END
+qupz.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/qupz.m
+END
+nlademo2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/nlademo2.m
+END
+resampc.mexsol
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.mexsol
+END
+rebacksamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/rebacksamp.m
+END
+resampc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.dll
+END
+qprec.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/qprec.m
+END
+ffilters.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/ffilters.m
+END
+qdown.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/qdown.m
+END
+resampc.mexlx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.mexlx
+END
+pdfb_dn.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfb_dn.m
+END
+modulate2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/modulate2.m
+END
+reverse2.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/reverse2.m
+END
+sefilter2.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/sefilter2.m
+END
+decdemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/decdemo.m
+END
+resampc.mexglx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.mexglx
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/README
+END
+pdfb_nest.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfb_nest.m
+END
+resampc.mexmac
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/resampc.mexmac
+END
+pdfb_tr.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/pdfb_tr.m
+END
+backsamp.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/backsamp.m
+END
+dfbdec_l.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/contourlet_toolbox/dfbdec_l.m
+END

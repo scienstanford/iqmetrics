@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RR_Contourlet/receiver_side
+END
+quality_analysis.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RR_Contourlet/receiver_side/quality_analysis.m
+END
+rr_feature_calculation.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RR_Contourlet/receiver_side/rr_feature_calculation.m
+END
+k_contourlet.mat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RR_Contourlet/receiver_side/k_contourlet.mat
+END
+receiver_distortion_measure.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RR_Contourlet/receiver_side/receiver_distortion_measure.m
+END

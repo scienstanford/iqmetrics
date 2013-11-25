@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k
+END
+jp2codec_degrade.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k/jp2codec_degrade.m
+END
+jp2_codec.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k/jp2_codec.m
+END
+jp2class_degrade.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k/jp2class_degrade.m
+END
+perform_jp2_rescaling.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k/perform_jp2_rescaling.m
+END
+compile_jp2k.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/jp2k/compile_jp2k.m
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src
+END
+ifdct_usfft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/ifdct_usfft.cpp
+END
+fdct_usfft_mex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft_mex.cpp
+END
+afdct_usfft_mex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/afdct_usfft_mex.cpp
+END
+numvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/numvec.hpp
+END
+nummat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/nummat.hpp
+END
+fdct_usfft_param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft_param.cpp
+END
+ifdct_usfft_mex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/ifdct_usfft_mex.cpp
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/options
+END
+mexaux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/mexaux.hpp
+END
+offvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/offvec.hpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/test.cpp
+END
+fdct_usfft_param_mex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft_param_mex.cpp
+END
+offmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/offmat.hpp
+END
+fdct_usfft_inc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft_inc.hpp
+END
+fdct_usfft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft.cpp
+END
+afdct_usfft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/afdct_usfft.cpp
+END
+fdct_usfft_inline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft_inline.hpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/makefile
+END
+fdct_usfft.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct_usfft_cpp/src/fdct_usfft.hpp
+END

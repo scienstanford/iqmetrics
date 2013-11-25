@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src
+END
+numvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/numvec.hpp
+END
+fdct3d_inverse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/fdct3d_inverse.cpp
+END
+offtns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/offtns.hpp
+END
+nummat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/nummat.hpp
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/options
+END
+fdct3dinline.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/fdct3dinline.hpp
+END
+fdct3d.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/fdct3d.hpp
+END
+offvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/offvec.hpp
+END
+cpxcrvletocr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/cpxcrvletocr.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/test.cpp
+END
+offmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/offmat.hpp
+END
+cpxcrvletocr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/cpxcrvletocr.hpp
+END
+fdct3d_param.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/fdct3d_param.cpp
+END
+commoninc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/commoninc.hpp
+END
+numtns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/numtns.hpp
+END
+fdct3d_forward.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/fdct3d_forward.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/CurveLab-2.0/fdct3d_outcore/src/makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/sender_side
+END
+feature_calculation.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/sender_side/feature_calculation.m
+END
+sender_feature_extraction.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/sender_side/sender_feature_extraction.m
+END
+feature_quantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ee/pdcprojects/!svn/ver/700/iqMetrics/reducedRef/RRIQA/sender_side/feature_quantization.m
+END

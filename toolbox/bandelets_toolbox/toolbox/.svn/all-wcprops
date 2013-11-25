@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox
+END
+l2error.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/l2error.m
+END
+keep_biggest.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/keep_biggest.m
+END
+evaluate_nbr_bits.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/evaluate_nbr_bits.m
+END
+keep_above.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/keep_above.m
+END
+compile_mex.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/compile_mex.m
+END
+evaluate_nbr_bits_wavelets.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/evaluate_nbr_bits_wavelets.m
+END
+perform_haar_transform_slow.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/perform_haar_transform_slow.m
+END
+plot_wavelet.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/plot_wavelet.m
+END
+rescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/rescale.m
+END
+perform_haar_transform.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/perform_haar_transform.dll
+END
+perform_quantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/perform_quantization.m
+END
+compute_quadrant_selection.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/compute_quadrant_selection.m
+END
+reorder_coefs.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/reorder_coefs.m
+END
+load_image.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/load_image.m
+END
+psnr.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox/psnr.m
+END

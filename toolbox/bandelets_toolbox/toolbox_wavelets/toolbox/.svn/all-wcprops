@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox
+END
+apply_tensorial.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/apply_tensorial.m
+END
+histo.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/histo.m
+END
+compute_symmetric_conditional_histogram.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/compute_symmetric_conditional_histogram.m
+END
+rescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/rescale.m
+END
+perform_quantization.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/perform_quantization.m
+END
+load_image.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/load_image.m
+END
+psnr.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ee/pdcprojects/!svn/ver/700/iqMetrics/toolbox/bandelets_toolbox/toolbox_wavelets/toolbox/psnr.m
+END

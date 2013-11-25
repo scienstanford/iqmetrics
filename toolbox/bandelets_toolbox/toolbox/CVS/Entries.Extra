@@ -1,0 +1,16 @@
+D/mex///
+/compile_mex.m///
+/compute_quadrant_selection.m///
+/evaluate_nbr_bits.m///
+/evaluate_nbr_bits_wavelets.m///
+/keep_above.m///
+/keep_biggest.m///
+/l2error.m///
+/load_image.m///
+/perform_haar_transform.dll///
+/perform_haar_transform_slow.m///
+/perform_quantization.m///
+/plot_wavelet.m///
+/psnr.m///
+/reorder_coefs.m///
+/rescale.m///
